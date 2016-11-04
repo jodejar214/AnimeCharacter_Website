@@ -1,0 +1,218 @@
+html{
+	height: 100%;
+}
+
+body{
+	position: relative;
+	min-height: 100%;
+	background-image: url(../images/animebg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% auto;
+	margin: 0;
+	padding: 0;
+	padding-bottom: 20px;
+	font-family: sans-serif;
+}
+
+/*title div*/
+
+#header{
+	color: #87ceeb;
+	background-color: #191970;
+	display: table;
+	border: ridge #87ceeb 10px;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: center;
+	width:50%;
+	margin-top: 10px;
+}
+
+/*form divs*/
+
+#finputs, #searchForm, #searchMsg{
+	background-color: #87ceeb;
+	border: solid #191970 5px;
+	padding: 15px;
+	text-align: center;
+	border-radius: 25px;
+}
+
+#finputs{
+	float: left;
+	margin-left: 25%;
+	margin-bottom: 30px;
+}
+
+#searchForm{
+	float: right;
+	margin-right: 25%;
+	margin-bottom: 30px;
+}
+
+#finputs h2, #searchForm h2{
+	color: #0000cd;
+	padding: 0px;
+	margin-top: 0;
+}
+
+#finputs input, select{
+	margin-top: 3px;
+	margin-bottom: 10px;
+}
+
+#searchForm input, select{
+	margin-top: 3px;
+	margin-bottom: 10px;
+}
+
+#finputs p{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+/*submit buttons for forms*/
+.sub{
+	margin-bottom: 0px !important;
+	padding: 5px;
+	width: 50%;
+	margin-top: 8px !important;
+}
+
+/*tables with anime character info*/
+
+#animeChar, th, td{
+	border: solid black 2px;
+	text-align: center;
+}
+
+#animeChar{
+	background-color: #87ceeb;
+	margin: 0 auto;
+	width: 80%;
+}
+
+th{
+	padding: 8px;
+	font-size: 22px;
+	color: #87ceeb;
+	background-color: #191970;
+}
+
+td{
+	padding: 8px;
+	font-size: 18px;
+	color: #0000cd;
+}
+
+/*message displayed after search*/
+
+#searchMsg{
+	padding-top: 0 !important;
+	width: 30%;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+#searchMsg p{
+	padding: 0 !important;
+	margin-top: 0 !important;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+/*link back to homepage*/
+.home{
+	text-decoration: none;
+	font-size: 20px;
+	margin: 0;
+	padding: 2px;
+	background-color: #87ceeb;
+	color: #191970;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.home:hover{
+	background-color: #191970;
+	color: #87ceeb;
+	font-style: normal;
+}
+
+.home2{
+	text-decoration: none;
+	font-size: 20px;
+	margin: 0;
+	padding: 2px;
+	background-color: #191970;
+	color: #87ceeb;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.home2:hover{
+	color: #191970;
+	background-color: #87ceeb;
+	font-style: normal;
+}
+
+/*footer of page with source for background*/
+#footer{
+	position: absolute;
+	bottom: 0;
+	color: #87ceeb;
+	background-color: #191970;
+	border-top: 2px solid #87ceeb;
+	padding: 0;
+	text-align: center;
+	width:100%;
+}
+
+#footer p{
+	padding: 3px !important;
+	margin: 0 !important;
+}
+
+#footer a{
+	text-decoration: none;
+	font-weight: bold;
+	background-color: #87ceeb;
+	padding: 1px;
+}
+
+/*filter accordion*/
+
+.accordion {
+    overflow:hidden;
+    box-shadow:0px 1px 3px rgba(0,0,0,0.25);
+    border-radius:5px;
+    background:#f7f7f7;
+}
+ 
+/*----- Section Titles -----*/
+.section-title {
+    width:100%;
+    padding:5px;
+    display:inline-block;
+    background-color:#191970;
+    transition:all linear 0.15s;
+    font-size:16px;
+    color:#fff;
+    text-decoration: none;
+}
+ 
+.section-title.active, .section-title:hover {
+    background:#4c4c4c;
+    text-decoration:none;
+}
+ 
+.accordion-section:last-child .section-title {
+    border-bottom:none;
+}
+ 
+/*----- Section Content -----*/
+.section-content {
+    padding:5px;
+    display:none;
+}

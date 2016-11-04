@@ -1,0 +1,27 @@
+Natsu Dragneel|Fairy Tail|Tetsuya Kakihara|Male|Pink
+Misaka Mikoto|To Aru Majutsu no Index|Rina Satou|Female|Brown
+Wendy Marvell|Fairy Tail|Satomi Satou|Female|Blue
+Yukinoshita Yukino|Yahari Ore no Seishun Love Comedy wa Machigatteiru|Hayami Saori|Female|Black
+Hikigaya Hachiman|Yahari Ore no Seishun Love Comedy wa Machigatteiru|Takuya Eguchi|Male|Black
+Katsura Hinagiku|Hayate no Gotoku|Shizuka Itou|Female|Pink
+Evangeline Athanasia Katherine McDowell|Mahou Sensei Negima|Yuki Matsuoka|Female|Blonde
+Saitama|One-Punch Man|Makoto Furukawa|Male|Bald
+Pikachu|Pokemon|Ikue Ootani|Unknown|Other
+Hiiragi Shinoa|Owari no Seraph|Hayami Saori|Female|Purple
+Otonashi Yuzuru|Angel Beats|Hiroshi Kamiya|Male|Orange
+Emporio Ivankov|One Piece|Mitsuo Iwata|Neutral|Purple
+Shiina Mashiro|Sakurasou no Pet na Kanojo|Ai Kayano|Female|Blonde
+Leenalee Lee|D.Gray-Man|Shizuka Itou|Female|Green
+Accelerator|To Aru Majutsu no Index|Nobuhiko Okamoto|Male|White
+Erza Scarlet|Fairy Tail|Sayaka Ohara|Female|Red
+Shiraishi Urara|Yamada-kun to 7-nin no Majo|Hayami Saori|Female|Blonde
+Son Goku|Dragon Ball|Yasuhiko Kawazu|Male|Black
+Son Goku|Naruto|Hiroki Yasumoto|Male|Other
+Lelouch Lamperouge|Code Geass|Jun Fukuyama|Male|Black
+Kirigaya Kazuto|Sword Art Online|Yoshitsugu Matsuoka|Male|Black
+Yuuki Asuna|Sword Art Online|Haruka Tomatsu|Female|Brown
+C.C.|Code Geass|Yukana|Female|Green
+Yagami Hikari|Digimon Tri|M.A.O|Female|Brown
+Uzumaki Naruto|Naruto|Junko Takeuchi|Male|Blonde
+Shiodome Miuna|Nagi no Asukara|Mikako Komatsu|Female|Black
+Yukihira Souma|Shokugeki no Souma|Yoshitsugu Matsuoka|Male|Red
